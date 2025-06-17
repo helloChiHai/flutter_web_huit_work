@@ -27,7 +27,17 @@
         "huy": "Cancel",
         "quenmatkhau": "Forgot password",
         "guilaima": "Resend code",
-        "chuoikytu": "The character string is incorrect or has expired"
+        "chuoikytu": "The character string is incorrect or has expired",
+        "homnay": "Today",
+        "trehan": "Late",
+        "quantam": "Care about",
+        "daganco": "Flagged",
+        "dagiao": "Assigned",
+        "duocgiao": "Was assigned to",
+        "dangtheodoi": "Following",
+        "danhsachcuatoi": "My list",
+        "themdanhsach": "+ Add list",
+        "timkiemcongviec": "Find a job"
     },
     "thongbaochung": {
         "danhba": "Contacts",
@@ -478,7 +488,8 @@
         "huongdanxepca": "Enabled shifts will display the number of people assigned to that shift each day on the shift placement screen. Choose the shift display color to help you quickly identify the number of employees working that shift during the day",
         "motalichlamviec": "Weekly work schedule is the regulation of working shifts on days in a week. Based on the list of employees working according to any schedule, the system will automatically assign the corresponding shift of the day to the employee",
         "tailieudinhkem": "Attachments",
-        "chuacotailieudinhkem": "There are no attached documents"
+        "chuacotailieudinhkem": "There are no attached documents",
+        "timkiemcongviec": "Find a job"
     },
     "err": {
         "loilayloaiphep": "Unable to retrieve leaving type",

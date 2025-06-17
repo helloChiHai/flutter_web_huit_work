@@ -27,7 +27,17 @@
         "huy": "Huỷ",
         "quenmatkhau": "Quên mật khẩu",
         "guilaima": "Gửi lại mã",
-        "chuoikytu": "Chuỗi ký tự không đúng hoặc đã hết hạn"
+        "chuoikytu": "Chuỗi ký tự không đúng hoặc đã hết hạn",
+        "homnay": "Hôm nay",
+        "trehan": "Trễ hạn",
+        "quantam": "Quan tâm",
+        "daganco": "Đã gắn cờ",
+        "dagiao": "Đã giao",
+        "duocgiao": "Được giao",
+        "dangtheodoi": "Đang theo dõi",
+        "danhsachcuatoi": "Danh sách của tôi",
+        "themdanhsach": "+ Thêm danh sách",
+        "timkiemcongviec": "Tìm kiếm công việc"
     },
     "thongbaochung": {
         "danhba": "Danh bạ",
@@ -475,7 +485,8 @@
         "huongdanxepca": "Các ca làm việc được bật sẽ hiển thị số người được xếp ca đó hàng ngày trên màn hình xếp ca. Chọn màu sắc hiển thị của ca để giúp bạn nhận biết nhanh hơn số nhân viên làm ca đó trong ngày",
         "motalichlamviec": "Lịch làm việc tuần là quy định các ca làm việc các thứ trong một tuần. Dựa vào danh sách nhân viên làm việc theo lịch nào hệ thống sẽ tự động gán ca làm việc trong ngày tương ứng cho nhân viên",
         "tailieudinhkem": "Tài liệu đính kèm",
-        "chuacotailieudinhkem": "Chưa có tài liệu đính kèm"
+        "chuacotailieudinhkem": "Chưa có tài liệu đính kèm",
+        "timkiemcongviec": "Tìm kiếm công việc"
     },
     "err": {
         "loilayloaiphep": "Lỗi lấy danh sách loại nghỉ phép",
